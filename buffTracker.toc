@@ -1,0 +1,8 @@
+## Interface: 70200
+## Title: Buff Tracker
+## Version: 0.01 - Beta
+## Notes: Initial release for buff tracker (Enhance Shaman focus)
+## Author: c0mg3k
+## DefaultState: enabled
+
+main.lua;
